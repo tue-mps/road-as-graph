@@ -1,0 +1,19 @@
+{
+  "random_seed": 2,
+  "cudnn_benchmark": false,
+  "cudnn_deterministic": true,
+  "restore": false,
+
+  "dataset": "argoverse-tracking-sorted-thinning",
+  "dataset_dir": "datasets/argoverse-tracking-sorted-thinning/",
+  "method": "synthetic_road_7n_fuse_data_8_24",
+  "epoch": null,
+
+
+  "adj_threshold": 0.02,
+
+  "image_size": [128, 128],
+  "bidirectional": false,
+  "self_edge": false,
+  "num_nodes": 7
+}
