@@ -129,6 +129,4 @@ dmypy.json
 .pyre/
 
 
-datasets/
-checkpoints/
 runs/
